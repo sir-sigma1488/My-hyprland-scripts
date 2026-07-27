@@ -1,4 +1,4 @@
-#скрипт для Hyprland
+##гитхаб запрета для линукс https://github.com/Sergeydigl3/zapret-discord-youtube-linux
 
 **заставка загрузки Windows 11**, которая проигрывается сразу после разблокировки экрана/входа в систему.
 
